@@ -1,0 +1,7 @@
+DevConsole_setup.bat Opened 16:20:41.54
+[DevConsole_setup.bat] Success 'set' set! 16:20:41.78
+DevConsole_setup.bat Opened 16:27:15.20
+[DevConsole_setup.bat] Success 'set' set! 16:27:15.42
+ERROR :: [cmdPath(devsettings)][guest{Member }(olesj)] 
+ERROR :: [cmdPath(devsettings)][guest{Member }(olesj)] 
+ERROR :: 18:36:23.84 :: [cmdPath(devsettings)][guest{Member }(olesj)] 

@@ -1,0 +1,63 @@
+DevConsole is currently closed due to a security breach which will be 
+fixed shortly.
+
+During this time, we have release DevConsole Lite, which is a limited 
+version of the original DevConsole. Pleas e be aware that it is 
+signing you in a a Guest.
+
+Goto github.com/amart3080 , then 'DevConsole Lite' , and download 
+whichever way you prefer.
+
+if %input%==A2
+if %input%==A3
+if %input%==A4
+if %input%==A5
+if %input%==A6
+if %input%==A7
+if %input%==A8
+if %input%==A9
+if %input%==B1
+if %input%==B2
+if %input%==B3
+if %input%==B4
+if %input%==B5
+if %input%==B6
+if %input%==B7
+if %input%==B8
+if %input%==B9
+if %input%==C1
+if %input%==C2
+if %input%==C3
+if %input%==C4
+if %input%==C5
+if %input%==C6
+if %input%==C7
+if %input%==C8
+if %input%==C9
+if %input%==D1
+if %input%==D2
+if %input%==D3
+if %input%==D4
+if %input%==D5
+if %input%==D6
+if %input%==D7
+if %input%==D8
+if %input%==D9
+if %input%==E1
+if %input%==E2
+if %input%==E3
+if %input%==E4
+if %input%==E5
+if %input%==E6
+if %input%==E7
+if %input%==E8
+if %input%==E9
+if %input%==F1
+if %input%==F2
+if %input%==F3
+if %input%==F4
+if %input%==F5
+if %input%==F6
+if %input%==F7
+if %input%==F8
+if %input%==F9

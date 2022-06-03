@@ -1,0 +1,33 @@
+DevConsole_setup.bat Opened 16:22:11.80
+[DevConsole_setup.bat] Success 'mode' set! 16:22:12.01
+[DevConsole_setup.bat] Success 'set' set! 16:22:12.01
+DevConsole_setup.bat Opened 16:29:44.23
+[DevConsole_setup.bat] Success 'mode' set! 16:29:44.45
+[DevConsole_setup.bat] Success 'set' set! 16:29:44.46
+DevConsole_setup.bat Opened 17:03:03.29
+[DevConsole_setup.bat] Success 'mode' set! 17:03:03.48
+[DevConsole_setup.bat] Success 'set' set! 17:03:03.48
+DevConsole_setup.bat Opened 16:19:48.89
+[DevConsole_setup.bat] Success 'mode' set! 16:19:49.08
+[DevConsole_setup.bat] Success 'set' set! 16:19:49.09
+DevConsole_setup.bat Opened 17:04:46.92
+[DevConsole_setup.bat] Success 'mode' set! 17:04:47.17
+[DevConsole_setup.bat] Success 'set' set! 17:04:47.17
+DevConsole_setup.bat Opened 17:06:12.23
+[DevConsole_setup.bat] Success 'mode' set! 17:06:12.27
+[DevConsole_setup.bat] Success 'set' set! 17:06:12.27
+DevConsole_setup.bat Opened 17:07:42.90
+[DevConsole_setup.bat] Success 'mode' set! 17:07:43.14
+[DevConsole_setup.bat] Success 'set' set! 17:07:43.14
+DevConsole_setup.bat Opened 17:11:50.40
+[DevConsole_setup.bat] Success 'mode' set! 17:11:50.66
+[DevConsole_setup.bat] Success 'set' set! 17:11:50.67
+DevConsole_setup.bat Opened 17:15:05.44
+[DevConsole_setup.bat] Success 'mode' set! 17:15:05.62
+[DevConsole_setup.bat] Success 'set' set! 17:15:05.62
+DevConsole_setup.bat Opened 18:50:51.46
+[DevConsole_setup.bat] Success 'mode' set! 18:50:51.65
+[DevConsole_setup.bat] Success 'set' set! 18:50:51.65
+DevConsole_setup.bat Opened 20:12:07.79
+[DevConsole_setup.bat] Success 'mode' set! 20:12:07.99
+[DevConsole_setup.bat] Success 'set' set! 20:12:07.99

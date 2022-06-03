@@ -1,0 +1,3 @@
+NOTIF 384 :: [reala{*Developer*}(olesj)] - [C: DESKTOP-6SLMHVM] - [(Support)"applicationstatus error"] 
+NOTIF 323 :: [reala{*Developer*}(olesj)] - [C: DESKTOP-6SLMHVM] - [(Online)"LAUNCH INTERFACE is active."] 
+NOTIF 145 :: [reala{*Developer*}(olesj)] - [C: DESKTOP-6SLMHVM] - [(Early-Release)"Credit System will soon be implemented."] 

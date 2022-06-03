@@ -1,0 +1,32 @@
+DevConsle Opened 17:06:37.73
+DevConsle Opened 17:06:40.36
+DevConsle Opened 17:06:43.98
+DevConsle Opened 17:07:10.45
+DevConsle Opened 17:11:06.81
+-Help! Opened
+DevConsle Opened 18:14:18.86
+DevConsle Opened 18:15:43.60
+ENTRY [TERMINAL] (olesj) 18:15:55.04
+ENTRY [TERMINAL2] (olesj) 18:16:04.60
+ENTRY [runTerm1] (olesj) 18:16:12.13
+ENTRY [TERMINAL] (olesj) 18:16:32.50
+DevConsle Opened 18:18:45.36
+ENTRY [TERMINAL] (olesj) 18:18:51.99
+DevConsle Opened 15:47:32.54
+ECHO is off.
+ECHO is off.
+-admin_pass Opened
+-exi Opened
+DevConsle Opened 16:39:37.90
+-Help! Opened
+-Help ~ FileSearch-ALL! GoTo
+-MAINTAINANCE! Opened
+-MAINTAINANCE! Loaded information`
+-MAINTAINANCE! Closing f
+-Help! Opened
+-Help ~ FileSearch-ALL! GoTo
+-MAINTAINANCE! Opened
+-MAINTAINANCE! Loaded information`
+-MAINTAINANCE! Closing f
+-admin_pass Opened
+-exi Opened

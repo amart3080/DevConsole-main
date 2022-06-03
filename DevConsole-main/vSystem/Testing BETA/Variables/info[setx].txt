@@ -1,0 +1,41 @@
+Consider also using SETX - it will set variable on user or machine (available for all users) level though the variable will be usable with the next opening of the cmd.exe ,so often it can be used together with SET :
+
+::setting variable for the current user
+if not defined My_Var (
+  set "My_Var=My_Value"
+  setx My_Var My_Value
+)
+
+::setting machine defined variable
+if not defined Global_Var (
+  set "Global_Var=Global_Value"
+  SetX Global_Var Global_Value /m
+)
+You can also edit directly the registry values:
+
+User Variables: HKEY_CURRENT_USER\Environment
+
+System Variables: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Environment
+
+Which will allow to avoid some restrictions of SET and SETX like the variables containing = in their names.
+
+3rd party edit
+SETX.exe Set environment variables permanently,
+
+SETX can be used to set Environment Variables for the machine (HKLM) or currently logged on user (HKCU):
+
+Option /m
+
+ /m
+       Set the variable in the system environment HKLM.
+       (The default is the local environment HKCU)
+Another example
+
+::setting variable for the current user
+if not defined JAVAJDK (
+  set "JAVAJDK=C:\Program Files\Java\jdk-13\bin"
+  setx JAVAJDK "C:\Program Files\Java\jdk-13\bin"
+)
+In a command.exe you can use the variable like this cd %JAVAJDK%.
+
+CREDIT: https://stackoverflow.com/questions/10552812/defining-and-using-a-variable-in-batch-file

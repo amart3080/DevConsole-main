@@ -1,0 +1,21 @@
+DevConsle Opened 17:06:25.33
+DevConsle Opened 17:42:22.82
+DevConsle Opened 16:22:17.73
+-exi Opened
+DevConsle Opened 17:04:36.80
+DevConsle Opened 17:05:25.98
+DevConsle Opened 17:10:45.96
+DevConsle Closed [MAINTAINANCE] MESG: {'Please refer to LAUNCH ex format.txt} 17:10:46.50
+ENTRY [TERMINAL] (olesj) 17:11:16.93
+ENTRY [TERMINAL] (olesj) 17:11:29.13
+ENTRY [TERMINAL2] (reala) 17:11:55.70
+ENTRY [TERMINAL2] (reala) 17:12:09.55
+ENTRY [TERMINAL2] (reala) 17:12:14.82
+DevConsle Opened 17:39:48.92
+DevConsle Opened 18:10:25.51
+DevConsle Opened 18:10:40.41
+DevConsle Closed [MAINTAINANCE] MESG: {'Please refer to LAUNCH ex format.txt} 18:10:41.76
+DevConsle Opened 18:12:49.62
+DevConsle Closed [MAINTAINANCE] MESG: {'Please refer to LAUNCH ex format.txt} 18:12:50.67
+DevConsle Opened 18:13:41.99
+DevConsle Closed [MAINTAINANCE] MESG: {'Please refer to LAUNCH ex format.txt} 18:13:43.43
